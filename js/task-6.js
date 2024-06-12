@@ -16,7 +16,7 @@ btnCreate.addEventListener("click", () => {
     inputElem.value = "";
   }
 });
-
+create;
 function createBoxes(amount) {
   const arrBoxCreate = [];
   boxCreate.innerHTML = "";
